@@ -1,6 +1,6 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hello there 👋, I am Arpan Pramanik (He/Him)</h1>
-<h3 align="center">A student and developer who loves tech and is always curious about new technologies.</h3>
+<h3 align="center">As a dev, my passion for technology drives me to continuously expand my knowledge and skills. I specialize in HTML5, CSS3, Python, currently learning JS and CPP.</h3>
 
 
 
