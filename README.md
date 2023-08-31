@@ -25,7 +25,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arpan-pramanik-6642b821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpan-pramanik-6642b821a" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@4rpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@4rpan" height="30" width="40" /></a>
 <a href="https://discord.gg/6XuCHbx7Ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6XuCHbx7Ee" height="30" width="40" /></a>
 </p>
 
