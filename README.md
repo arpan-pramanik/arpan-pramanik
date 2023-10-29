@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JS and C++**
 
-- 📫 How to reach me **arpanpramanik015@yahoo.com**
+- 📫 How to reach me **arpanpramanikk@gmail.com**
 
 - ⚡ Fun fact **I love photography**
 
