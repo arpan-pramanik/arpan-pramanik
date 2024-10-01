@@ -45,6 +45,3 @@
 <br/>
 <br/>
 
-
-<!-- for some reason center wasn't working -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&" alt="arpan-pramanik" /></p>
