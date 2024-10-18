@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love photography**
 
-- 👤 Portfolio **[portfolio.arpanp.tech](https://portfolio.arpanp.tech)**
+- 👤 Portfolio **[portfolio.arpanp.live](https://portfolio.arpanp.live)**
 
 <br/>
 
