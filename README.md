@@ -40,8 +40,6 @@
 - ✍️ drawing
 - 🎮 and some gaming
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpan-pramanik&show_icons=true&locale=en&layout=compact" alt="arpan-pramanik" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&" alt="arpan-pramanik" /></p>
 
 
