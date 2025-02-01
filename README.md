@@ -39,6 +39,7 @@
 - 📷 I do some photography
 - ✍️ drawing
 - 🎮 and some gaming
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&" alt="arpan-pramanik" /></p>
 
