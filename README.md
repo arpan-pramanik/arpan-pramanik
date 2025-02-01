@@ -37,7 +37,6 @@
 <h3 align="left">⚡ When I don't code : </h3>
 
 - 📷 I do some photography
-- ✍️ drawing
 - 🎮 and some gaming
 <br/>
 <br/>
