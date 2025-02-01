@@ -40,8 +40,11 @@
 - ✍️ drawing
 - 🎮 and some gaming
 <br/>
+<br/>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&" alt="arpan-pramanik" /></p>
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&" alt="arpan-pramanik" /></div>
 
 
 <br/>
