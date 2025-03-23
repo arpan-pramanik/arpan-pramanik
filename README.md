@@ -46,6 +46,8 @@
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&" alt="arpan-pramanik" /></div>
 
 
+![THM](https://tryhackme-badges.s3.amazonaws.com/arpanpramanik.png)
+
 <br/>
 <br/>
 <br/>
