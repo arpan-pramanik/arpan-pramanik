@@ -44,7 +44,7 @@
 <br/>
 <br/>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&" alt="arpan-pramanik" /></div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3667421" style='border:none;'></iframe>
+
 
 
 <br/>
