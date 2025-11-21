@@ -19,21 +19,21 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,html,css&theme=light" />
 </p>
 
----
+
 
 ### Frameworks & Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" />
 </p>
 
----
+
 
 ### Tools & Dev Workflow
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,regex&theme=light" />
 </p>
 
----
+
 
 ### Cloud & DevOps
 <p align="left">
@@ -41,7 +41,7 @@
 </p>
 
 
----
+
 
 ### CS Fundamentals & Other
 <p align="left">
