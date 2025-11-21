@@ -9,17 +9,6 @@
 <p align="center">
 
 
-
-## About Me
-I'm **Arpan**, a practical developer blending **cloud**, **cybersecurity**, and **systems programming** to build tools, teach cloud labs, and ship reliable software.  
-As the **AWS Cloud Club Captain**, I run hands-on workshops and student cloud onboarding.
-
-**Focus areas**
-- Cloud infrastructure (AWS) & labs  
-- Cybersecurity , OffSec
-- Linux-first tooling, automation, and virtualization  
-- Containerization with Docker; small system utilities in C/C++
-
 ---
 
 ## Tech Stack & Skills  
