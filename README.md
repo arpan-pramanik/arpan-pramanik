@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" alt="banner"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=800&size=32&duration=2800&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=I'm+Arpan+Pramanik;AWS+Cloud+Club+Captain;Cybersecurity+%7C+Cloud+%7C+Development;Linux+%7C+DevOps+%7C+Automation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=800&size=32&duration=2800&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=I'm+Arpan+Pramanik;Cybersecurity+%7C+Cloud+%7C+Development;Linux+%7C+DevOps+%7C+Automation" alt="Typing Animation" />
 </p>
 
 <p align="center">
