@@ -30,7 +30,7 @@
 
 ### Tools & Dev Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,regex&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=light" />
 </p>
 
 
