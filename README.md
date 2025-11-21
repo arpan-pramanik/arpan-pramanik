@@ -67,7 +67,7 @@
 
 <p align="center">
   <!-- tile-style project gif -->
-  <img src="https://i.gifer.com/7w2J.gif" width="720" alt="project motion" />
+  <img src="https://media1.tenor.com/m/nX9B5KNWrmgAAAAC/star-wars.gif" width="720" alt="project motion" />
 </p>
 
 ---
