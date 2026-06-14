@@ -65,10 +65,10 @@
 
 
 
-<p align="center">
-  <!-- tile-style project gif -->
+<!-- <p align="center">
+  <!-- tile-style project gif 
   <img src="https://media1.tenor.com/m/nX9B5KNWrmgAAAAC/star-wars.gif" width="720" alt="project motion" />
-</p>
+</p> -->
 
 ---
 
