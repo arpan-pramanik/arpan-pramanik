@@ -16,14 +16,14 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,html,css,bash,go,ruby&theme=light" />
 </p>
 
 
 
-### Frameworks & Frontend
+### Frameworks, Libraries and Runtimes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,expressjs,nestjs,django,nodejs,flask,redux,bootstrap&theme=light" />
 </p>
 
 
@@ -37,7 +37,7 @@
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux&theme=light" />
 </p>
 
 
