@@ -1,105 +1,151 @@
-<!-- HERO SECTION  -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" alt="banner"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=800&size=32&duration=2800&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=I'm+Arpan+Pramanik;Cybersecurity+%7C+Cloud+%7C+Development;Linux+%7C+DevOps+%7C+Automation" alt="Typing Animation" />
-</p>
+# <div align="center">Arpan Pramanik</div>
 
-<p align="center">
+<div align="center">
 
+### Backend Systems • Security Engineering
+
+Building scalable backend systems, security-focused infrastructure, and intelligent retrieval architectures.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/arpan-pramanik-6642b821a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=\&logoColor=white)](https://arpanpramanik.in)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square\&logo=\&logoColor=white)](mailto:arpanpramanikk@gmail.com)
+
+</div>
 
 ---
 
-## Tech Stack & Skills  
+## About Me
 
+```cpp
+class ArpanPramanik {
+public:
+
+    string role = "Backend Software Engineer";
+
+    vector<string> focus = {
+        "Distributed Systems",
+        "Security Engineering",
+        "ML Infrastructure",
+        "Cloud Native Systems",
+        "Performance Optimization"
+    };
+
+    vector<string> building = {
+        "Research-grade Security Systems",
+        "Backend Infrastructure",
+        "Retrieval Architectures",
+        "Developer Tooling"
+    };
+
+    string philosophy =
+        "Build things that survive production.";
+};
+```
+
+---
+
+## Current Focus
+
+* Building scalable backend systems and APIs
+* Designing security-focused infrastructure
+* Distributed systems and cloud-native architectures
+* Open source
+
+---
+
+
+## Tech Stack
 
 ### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,html,css,bash,go,ruby&theme=light" />
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,python,cpp,rust,ts,js,bash,sql&theme=dark" />
 </p>
 
+### Backend & Infrastructure
 
-
-### Frameworks, Libraries and Runtimes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,expressjs,nestjs,django,nodejs,flask,redux,bootstrap&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,docker,kubernetes,redis,linux&theme=dark" />
 </p>
 
+### Cloud
 
-
-### Tools & Dev Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" />
 </p>
 
+### Security & Tooling
 
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 </p>
-
-
-
-
-### CS Fundamentals & Other
-<p align="left">
-
-  <a><img src="https://img.shields.io/badge/Data%20Structures-0077B5?style=for-the-badge&logo=codestats&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Algorithms-0077B5?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/OOP-0077B5?style=for-the-badge&logo=knowledgebase&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/IT%20Operations-0077B5?style=for-the-badge&logo=serverfault&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Machine%20Learning%20(Basic)-0077B5?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/SQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-
-</p>
-
 
 ---
 
-<!-- decorative divider -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
-</p> -->
+## GitHub Analytics
 
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpan-pramanik&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
 
-<!-- <p align="center">
-  <!-- tile-style project gif 
-  <img src="https://media1.tenor.com/m/nX9B5KNWrmgAAAAC/star-wars.gif" width="720" alt="project motion" />
-</p> -->
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&hide_border=true&theme=github-dark-blue"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan-pramanik&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpan-pramanik&theme=github-compact&hide_border=true"/>
+
+</div>
 
 ---
 
+## Engineering Interests
 
-## GitHub Performance
+```text
+Distributed Systems
+Backend Architecture
+Security Engineering
+Network Protocols
+Cloud Infrastructure
+ML Systems
+Retrieval Architectures
+Performance Engineering
+Developer Tooling
+```
+
+---
+
+## Open Source
+
+Always interested in contributing to projects related to:
+
+* Backend Infrastructure
+* Security Tooling
+* Cloud Native Technologies
+* Developer Experience
+* ML Infrastructure
+
+---
+
+## Connect
 
 <p align="center">
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-pramanik&theme=dark&hide_border=true" />
+
+<a href="https://linkedin.com/in/arpan-pramanik-6642b821a">LinkedIn</a> • <a href="https://arpanpramanik.in">Portfolio</a> • <a href="mailto:arpanpramanikk@gmail.com">Email</a>
+
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpan-pramanik&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## Contribution Flow
-<p align="center">
-  
-</p>
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/arpan-pramanik-6642b821a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:arpanpramanikk@gmail.com"><img src="https://img.shields.io/badge/Email-arpanpramanikk%40gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://discord.gg/6XuCHbx7Ee"><img src="https://img.shields.io/badge/Discord-Join-0077B5?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
-</p>
-
 
 
