@@ -16,36 +16,6 @@ Building scalable backend systems, security-focused infrastructure, and intellig
 
 ---
 
-## About Me
-
-```cpp
-class ArpanPramanik {
-public:
-
-    string role = "Backend Software Engineer";
-
-    vector<string> focus = {
-        "Distributed Systems",
-        "Security Engineering",
-        "ML Infrastructure",
-        "Cloud Native Systems",
-        "Performance Optimization"
-    };
-
-    vector<string> building = {
-        "Research-grade Security Systems",
-        "Backend Infrastructure",
-        "Retrieval Architectures",
-        "Developer Tooling"
-    };
-
-    string philosophy =
-        "Build things that survive production.";
-};
-```
-
----
-
 ## Current Focus
 
 * Building scalable backend systems and APIs
